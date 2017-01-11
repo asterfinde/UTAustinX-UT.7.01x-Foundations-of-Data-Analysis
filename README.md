@@ -21,55 +21,75 @@ Getting to know R and RStudio
 ### Week Two: Univariate Descriptive Statistics
 
 Graphs and distribution shapes
+
 Measures of center and spread
+
 The Normal distribution
+
 Z-scores
 
 ### Week Three: Bivariate Distributions
 
 The scatterplot
+
 Correlation
 
 ### Week Four: Bivariate Distributions (Categorical Data)
 
 Contingency tables
+
 Conditional probability
+
 Examining independence
 
 ### Week Five: Linear Functions
 
 What is a function?
+
 Least squares
+
 The Linear function – regression
 
 ### Week Six: Exponential and Logistic Function Models
 
 Exponential data
+
 Logs
+
 The Logistic function model
+
 Picking a good model
 
 ### Week Seven: Sampling
 
 The sampling distribution
+
 Central limit theorem
+
 Confidence intervals
 
 ### Week Eight: Hypothesis Testing (One and Two Group Means)
 
 What makes a hypothesis test?
+
 Errors in testing Alpha and critical values
+
 Single sample test
+
 Independent t-test and Dependent t-test
 
 ### Week Nine: Hypothesis Testing (Categorical Data)
 
 The chi-square test
+
 Goodness-of-Fit
+
 Test-of-Independence
 
 ### Week Ten: Hypothesis Testing (More Than Two Group Means)
 
 The ANOVA
+
 One-way ANOVA
+
 Two-way ANOVA
