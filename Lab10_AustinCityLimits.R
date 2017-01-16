@@ -51,11 +51,16 @@ chisq.test(genreTwit, correct=FALSE)
 
 # Answer the question and support your answer with statistics:
         
-#         First we examined whether genres were represented equally at Austin City Limits. In our 
+# First we examined whether genres were represented equally at Austin City Limits. In our 
 # sample, there were 18 country, 13 jazz/blues, 68 rock/folk/indie, and 17 singer/songwriter acts.
 # A Chi-square  Goodness of Fit test Goodness of Fit test showed that this difference was
 # was statistically significant. (Chi-square=   70.41, df=   3 3, p<0.05).
 # There is a higher representation of rock/folk/indie rock/folk/indie artists than other artists on 
 # the show.
 
-Second, we asked whether some genres were likely to draw more Twitter (over 100K). A Chi-square  Test of Independence Test of Independence - correct revealed that there was no significant finding--a large Twitter following was   independent of independent of - correct genre (Chi-square=   5.69 5.69 - correct , df=  3 3 - correct , p-value=0.1276). However, the assumption of an expected count minimum for each cell was found to be violated: Large Twitter following and the genre of jazz/blues had an expected count of  4.70 4.70 - correct . Because of this violation of a Chi-square assumption, the above results may be unreliable.
+# Second, we asked whether some genres were likely to draw more Twitter (over 100K). A Chi-square  
+# Test of Independence revealed that there was no significant finding a large Twitter following was
+# independent of genre (Chi-square=   5.69 5.69 - correct , df=  3 3 - correct , p-value=0.1276). 
+# However, the assumption of an expected count minimum for each cell was found to be violated: Large
+# Twitter following and the genre of jazz/blues had an expected count of  4.70. Because of this violation
+# of a Chi-square assumption, the above results may be unreliable.
